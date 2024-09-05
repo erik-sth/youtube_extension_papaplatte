@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "yt-react-extension",
+	"description": "Show reactions to this video",
+	"version": "1.0",
+	"icons": {
+	  "16": "/images/papaplatte16.png",
+	  "48": "/images/papaplatte48.png",
+	  "128": "/images/papaplatte128.png"
+	},
+	"page_action": {
+	  "default_icon": {
+		"16": "/images/papaplatte16.png",
+		"48": "/images/papaplatte48.png",
+		"128": "/images/papaplatte128.png"
+	  }
+	}
+  }
+  
